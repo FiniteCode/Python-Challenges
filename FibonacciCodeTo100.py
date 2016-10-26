@@ -1,4 +1,3 @@
-range_min = int(input("Minimum: "))
 range_max = int(input("Maximum: "))
 num1 = 0
 num2 = 1
